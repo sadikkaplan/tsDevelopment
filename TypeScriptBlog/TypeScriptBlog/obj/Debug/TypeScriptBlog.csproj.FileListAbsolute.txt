@@ -1,0 +1,6 @@
+c:\users\bkasmer\documents\visual studio 2013\Projects\TypeScriptBlog\TypeScriptBlog\bin\TypeScriptBlog.dll.config
+c:\users\bkasmer\documents\visual studio 2013\Projects\TypeScriptBlog\TypeScriptBlog\bin\TypeScriptBlog.dll
+c:\users\bkasmer\documents\visual studio 2013\Projects\TypeScriptBlog\TypeScriptBlog\bin\TypeScriptBlog.pdb
+c:\users\bkasmer\documents\visual studio 2013\Projects\TypeScriptBlog\TypeScriptBlog\obj\Debug\TypeScriptBlog.csprojResolveAssemblyReference.cache
+c:\users\bkasmer\documents\visual studio 2013\Projects\TypeScriptBlog\TypeScriptBlog\obj\Debug\TypeScriptBlog.dll
+c:\users\bkasmer\documents\visual studio 2013\Projects\TypeScriptBlog\TypeScriptBlog\obj\Debug\TypeScriptBlog.pdb
